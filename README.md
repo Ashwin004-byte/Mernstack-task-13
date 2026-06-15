@@ -1,4 +1,4 @@
-#  MERN-STAACK Task 13 - File Uploads & Media Management
+#  MERN-STACK Task 13 - File Uploads & Media Management
 
 ## Overview
 
