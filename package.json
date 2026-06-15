@@ -1,0 +1,25 @@
+{
+  "name": "mern-task-13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cloudinary": "^2.x",
+    "cors": "^2.8.5",
+    "dotenv": "^17.x",
+    "express": "^5.x",
+    "mongoose": "^8.x",
+    "multer": "^2.x"
+  },
+  "devDependencies": {
+    "nodemon": "^3.x"
+  }
+}
