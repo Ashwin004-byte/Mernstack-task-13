@@ -66,4 +66,6 @@ MERN-Task-13
 ## Outcome
 
 Successfully implemented image upload functionality using Multer and Cloudinary while storing image URLs in MongoDB for efficient media management.
+
+
 <img width="813" height="212" alt="image" src="https://github.com/user-attachments/assets/187fd2cb-ee96-4f0d-b268-9c8e0c718df0" />
